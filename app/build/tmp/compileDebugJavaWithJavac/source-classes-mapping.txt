@@ -1,0 +1,4 @@
+com/archon/organizerpro/BuildConfig.java
+ com.archon.organizerpro.BuildConfig
+com/archon/organizerpro/MainActivity.java
+ com.archon.organizerpro.MainActivity
