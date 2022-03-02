@@ -1,4 +1,34 @@
 com/archon/organizerpro/BuildConfig.java
  com.archon.organizerpro.BuildConfig
-com/archon/organizerpro/MainActivity.java
- com.archon.organizerpro.MainActivity
+com/archon/organizerpro/ui/home/HomeFragment.java
+ com.archon.organizerpro.ui.home.HomeFragment
+ com.archon.organizerpro.ui.home.HomeFragment$1
+com/archon/organizerpro/ui/home/HomeViewModel.java
+ com.archon.organizerpro.ui.home.HomeViewModel
+com/archon/organizerpro/ui/gallery/GalleryViewModel.java
+ com.archon.organizerpro.ui.gallery.GalleryViewModel
+com/archon/organizerpro/ui/slideshow/SlideshowFragment.java
+ com.archon.organizerpro.ui.slideshow.SlideshowFragment
+ com.archon.organizerpro.ui.slideshow.SlideshowFragment$1
+com/archon/organizerpro/ui/slideshow/SlideshowViewModel.java
+ com.archon.organizerpro.ui.slideshow.SlideshowViewModel
+com/archon/organizerpro/ui/gallery/GalleryFragment.java
+ com.archon.organizerpro.ui.gallery.GalleryFragment
+ com.archon.organizerpro.ui.gallery.GalleryFragment$1
+com/archon/organizerpro/databinding/FragmentHomeBinding.java
+ com.archon.organizerpro.databinding.FragmentHomeBinding
+com/archon/organizerpro/databinding/AppBarCalendarBinding.java
+ com.archon.organizerpro.databinding.AppBarCalendarBinding
+com/archon/organizerpro/databinding/ActivityCalendarBinding.java
+ com.archon.organizerpro.databinding.ActivityCalendarBinding
+com/archon/organizerpro/databinding/ContentCalendarBinding.java
+ com.archon.organizerpro.databinding.ContentCalendarBinding
+com/archon/organizerpro/CalendarActivity.java
+ com.archon.organizerpro.CalendarActivity
+ com.archon.organizerpro.CalendarActivity$1
+com/archon/organizerpro/databinding/FragmentGalleryBinding.java
+ com.archon.organizerpro.databinding.FragmentGalleryBinding
+com/archon/organizerpro/databinding/FragmentSlideshowBinding.java
+ com.archon.organizerpro.databinding.FragmentSlideshowBinding
+com/archon/organizerpro/databinding/NavHeaderCalendarBinding.java
+ com.archon.organizerpro.databinding.NavHeaderCalendarBinding

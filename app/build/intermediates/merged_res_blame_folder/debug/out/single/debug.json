@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable_ic_todo.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable/ic_todo.xml"
+    },
+    {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable/ic_launcher_background.xml"
     },
@@ -8,16 +12,8 @@
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
-    },
-    {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
@@ -28,20 +24,16 @@
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable_ic_saved_reminders.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable/ic_saved_reminders.xml"
     },
     {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
-    },
-    {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/fragment_home.xml"
     },
     {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
@@ -52,8 +44,76 @@
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_nav_header_calendar.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/nav_header_calendar.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-mdpi_galaxy.jpg.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-mdpi/galaxy.jpg"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_fragment_slideshow.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_content_calendar.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/content_calendar.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/menu_activity_main_drawer.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable_ic_acc.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable/ic_acc.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable_appbg.jpg.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable/appbg.jpg"
+    },
+    {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/menu_calendar.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/menu/calendar.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/drawable_ic_home.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/drawable/ic_home.xml"
     },
     {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -64,19 +124,23 @@
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_fragment_gallery.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/fragment_gallery.xml"
     },
     {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_activity_calendar.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/layout_app_bar_calendar.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/layout/app_bar_calendar.xml"
+    },
+    {
+        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/navigation/mobile_navigation.xml"
     },
     {
         "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/chrispapa/OrganizerPro/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/Users/chrispapa/OrganizerPro/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
     }
 ]
